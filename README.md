@@ -61,6 +61,20 @@ You can replace the path with any lesson file.
 - [chapter_04_Javscript_fundamentals/20_let_hoisting_block.js](chapter_04_Javscript_fundamentals/20_let_hoisting_block.js) - let hoisting within blocks - block-scoped hoisting
 - [chapter_04_Javscript_fundamentals/21_hoisting_const.js](chapter_04_Javscript_fundamentals/21_hoisting_const.js) - Hoisting with const - must initialize at declaration
 - [chapter_04_Javscript_fundamentals/22_TDZ_let_const.js](chapter_04_Javscript_fundamentals/22_TDZ_let_const.js) - Temporal Dead Zone (TDZ) explained - comprehensive comparison
+- [chapter_04_Javscript_fundamentals/22_TDZ_let_const.js](chapter_04_Javscript_fundamentals/22_TDZ_let_const.js) - Temporal Dead Zone (TDZ) explained - comprehensive comparison
+
+### Chapter 05: Operators
+
+- [chapter_05_Operators/23_Arithmetic_Operators.js](chapter_05_Operators/23_Arithmetic_Operators.js) - Arithmetic operators with examples (+, -, *, /, %, **)
+
+### Chapter 06: Literals
+
+- [chapter_06_Literal/24_null_vs_undefined.js](chapter_06_Literal/24_null_vs_undefined.js) - Difference between null and undefined
+- [chapter_06_Literal/25_null.js](chapter_06_Literal/25_null.js) - null literal explained
+- [chapter_06_Literal/26_literal_all.js](chapter_06_Literal/26_literal_all.js) - Overview of all JavaScript literal types
+- [chapter_06_Literal/27_String.js](chapter_06_Literal/27_String.js) - String literals and common string methods
+- [chapter_06_Literal/28_Template_literal.js](chapter_06_Literal/28_Template_literal.js) - Template literals with variable interpolation and multi-line strings
+- [chapter_06_Literal/29_backtick_singlequote_doublequote.js](chapter_06_Literal/29_backtick_singlequote_doublequote.js) - Comparison of single quote, double quote, and backtick with key differences
 
 ## Suggested Learning Order
 
@@ -71,6 +85,9 @@ You can replace the path with any lesson file.
    - Begin with the Variables folder to understand var, let, and const
    - Then study the Hoisting files in order (18-22) to understand how JavaScript handles variable declarations
    - Focus especially on files 19-22 for a deep understanding of Temporal Dead Zone (TDZ)
+5. Chapter 05: Learn arithmetic operators (file 23).
+6. Chapter 06: Explore literals - null, undefined, strings, template literals, and quote types (files 24-29).
+   - Pay special attention to 28 and 29 to master template literals and quote differences.
 
 ## Notes
 
