@@ -109,6 +109,13 @@ You can replace the path with any lesson file.
 - [chapter_09_Data_Types/49_primitive_data_types.js](chapter_09_Data_Types/49_primitive_data_types.js) - All 7 primitive data types with examples and falsy values
 - [chapter_09_Data_Types/50_non_primitive_data_types.js](chapter_09_Data_Types/50_non_primitive_data_types.js) - Non-primitive (reference) types: Object, Array, Function, Date, Map, Set
 
+### Chapter 10: Statements
+
+- [chapter_10_Statements/51_statements.js](chapter_10_Statements/51_statements.js) - JavaScript statements comprehensive guide covering 8 types of statements
+- [chapter_10_Statements/52_ IF_Statement.js](chapter_10_Statements/52_%20IF_Statement.js) - IF, IF-ELSE, IF-ELSE IF-ELSE statements with 7 practical examples
+- [chapter_10_Statements/53_else_if_simple.js](chapter_10_Statements/53_else_if_simple.js) - ELSE IF simple examples: traffic light, age groups, grades, temperature, discount calculator, and more
+- [chapter_10_Statements/54_IQ.js](chapter_10_Statements/54_IQ.js) - Interview questions: even/odd, grades, leap year, HTTP status codes, test cases, bug severity, build health, login attempts
+
 ## Suggested Learning Order
 
 1. Start with Chapter 01 files in order.
@@ -124,6 +131,11 @@ You can replace the path with any lesson file.
 7. Chapter 07: Deep dive into all operators - arithmetic, comparison, logical, ternary, nullish, increment/decrement, typeof, and primitives.
 8. Chapter 08: Practice common interview programming questions on operators.
 9. Chapter 09: Understand primitive vs non-primitive data types and how reference types work.
+10. Chapter 10: Master control flow statements:
+    - Start with file 51 for comprehensive statement overview
+    - Study file 52 to master IF, IF-ELSE, and IF-ELSE IF statements
+    - Practice with file 53 for simple ELSE IF examples
+    - Solve interview questions in file 54 to reinforce learning
 
 ## Notes
 
