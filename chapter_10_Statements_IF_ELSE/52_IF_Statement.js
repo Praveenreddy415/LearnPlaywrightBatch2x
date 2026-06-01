@@ -392,27 +392,28 @@ console.log("\n========== SUMMARY ==========");
 console.log("========== END OF IF STATEMENT GUIDE ==========");
 
 
-let a= 10;
-if(a%2===0){
+let a = 10;
+if (a % 2 === 0) {
     console.log("The number is even");
-}else{
+} else {
     console.log("The number is odd");
 }
 
 
 let score = 85;
-if(score>=90){
+if (score >= 90) {
     console.log("Grade: A+");
-}else if(score>=80){
+} else if (score >= 80) {
     console.log("Grade: A");
-}else if(score>=70){
-console.log(("Grade: B");}
-else if(score>=60){
+} else if (score >= 70) {
+    console.log("Grade: B");
+}
+else if (score >= 60) {
     console.log("Grade: C");
-}else if(score>=50){
+} else if (score >= 50) {
     console.log("Grade: D");
-}   else{   
+} else {
     cosnole.log("Grade: F (Fail)");
-}        
+}
 
 
