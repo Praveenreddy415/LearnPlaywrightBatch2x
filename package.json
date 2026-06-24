@@ -1,0 +1,23 @@
+{
+  "name": "learnplawrightbatch2x",
+  "version": "1.0.0",
+  "description": "A beginner-friendly JavaScript learning repository organized into chapters. The focus is on core JavaScript fundamentals, language concepts, operators, data types, statements, and interview practice examples.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveenreddy415/LearnPlaywrightBatch2x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Praveenreddy415/LearnPlaywrightBatch2x/issues"
+  },
+  "homepage": "https://github.com/Praveenreddy415/LearnPlaywrightBatch2x#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.0"
+  }
+}

@@ -15,6 +15,7 @@ A beginner-friendly JavaScript learning repository organized into chapters. The 
 - Chapter 09: Primitive and non-primitive data types
 - Chapter 10: Conditional statements and control flow
 - Chapter 14: Array methods, iteration, sorting, filtering, and reduction
+- Chapter 18: Async/await and asynchronous JavaScript examples
 
 ## Prerequisites
 
@@ -55,7 +56,9 @@ Replace the path with the lesson file you want to execute.
 - `chapter_07_Operators/` — operator types, comparisons, and expression logic
 - `chapter_08_Interview_questions_Operators.js/` — interview practice problems for operators
 - `chapter_09_Data_Types/` — primitive vs non-primitive data types
-- `chapter_10_Statements/` — conditional statements and practice challenges- `chapter_14_Arrays/` â€” array examples, iteration, sorting, transformation, and reduction
+- `chapter_10_Statements/` — conditional statements and practice challenges
+- `chapter_14_Arrays/` — array examples, iteration, sorting, transformation, and reduction
+- `chapter_18_Asyc_Await/` — async/await examples and asynchronous JavaScript concepts
 ## Notes
 
 - This repository is intended for practice and learning.
