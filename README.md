@@ -15,7 +15,10 @@ A beginner-friendly JavaScript learning repository organized into chapters. The 
 - Chapter 09: Primitive and non-primitive data types
 - Chapter 10: Conditional statements and control flow
 - Chapter 14: Array methods, iteration, sorting, filtering, and reduction
+- Chapter 16: String methods, search, replace, concatenation, slicing, and joining
 - Chapter 18: Async/await and asynchronous JavaScript examples
+- Chapter 19: Playwright basics and browser automation examples
+- Chapter 20: TypeScript basics, module export/import examples, and default vs named exports
 
 ## Prerequisites
 
@@ -32,6 +35,26 @@ node chapter_01_Basics/01_basics.js
 ```
 
 Replace the path with the lesson file you want to execute.
+
+### Running Playwright tests
+
+1. Install dependencies if needed:
+
+```bash
+npm install
+```
+
+2. Run Playwright tests from the repository root:
+
+```bash
+npx playwright test
+```
+
+3. Run a specific test file:
+
+```bash
+npx playwright test tests/ttcart.spec.ts
+```
 
 ## Learning Path
 
@@ -54,11 +77,15 @@ Replace the path with the lesson file you want to execute.
 - `chapter_05_Operators/` — arithmetic operator examples
 - `chapter_06_Literal/` — literal values and string formatting
 - `chapter_07_Operators/` — operator types, comparisons, and expression logic
-- `chapter_08_Interview_questions_Operators.js/` — interview practice problems for operators
+- `chapter_08_Interview_questions_Operators/` — interview practice problems for operators
 - `chapter_09_Data_Types/` — primitive vs non-primitive data types
 - `chapter_10_Statements/` — conditional statements and practice challenges
 - `chapter_14_Arrays/` — array examples, iteration, sorting, transformation, and reduction
+- `chapter_16_Strings/` — string method examples, search, replace, concatenation, slicing, and joining
 - `chapter_18_Asyc_Await/` — async/await examples and asynchronous JavaScript concepts
+- `chapter_19_Playwright_Basics/` — Playwright test examples and automation scripts
+- `chapter_20_TypeScript_Basics/` — TypeScript basics, modules, and import/export examples
+
 ## Notes
 
 - This repository is intended for practice and learning.
