@@ -16,6 +16,7 @@ A beginner-friendly JavaScript learning repository organized into chapters. The 
 - Chapter 10: Conditional statements and control flow
 - Chapter 14: Array methods, iteration, sorting, filtering, and reduction
 - Chapter 16: String methods, search, replace, concatenation, slicing, and joining
+- Chapter 17: Object concepts, config structures, destructuring, and reference behavior
 - Chapter 18: Async/await and asynchronous JavaScript examples
 - Chapter 19: Playwright basics and browser automation examples
 - Chapter 20: TypeScript basics, module export/import examples, and default vs named exports
@@ -82,6 +83,7 @@ npx playwright test tests/ttcart.spec.ts
 - `chapter_10_Statements/` — conditional statements and practice challenges
 - `chapter_14_Arrays/` — array examples, iteration, sorting, transformation, and reduction
 - `chapter_16_Strings/` — string method examples, search, replace, concatenation, slicing, and joining
+- `Chapter_17_Objects/` — object examples, config structures, destructuring, and reference type behavior
 - `chapter_18_Asyc_Await/` — async/await examples and asynchronous JavaScript concepts
 - `chapter_19_Playwright_Basics/` — Playwright test examples and automation scripts
 - `chapter_20_TypeScript_Basics/` — TypeScript basics, modules, and import/export examples
