@@ -43,3 +43,4 @@ console.log('First 5 letters:', sentence.slice(0, 5)); // I lik
 // - A string is text inside quotes.
 // - Strings can be joined together like pieces of a sentence.
 // - You can count letters, change uppercase/lowercase, and find words.
+ 
