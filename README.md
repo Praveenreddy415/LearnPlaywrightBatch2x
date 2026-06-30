@@ -83,7 +83,7 @@ npx playwright test tests/ttcart.spec.ts
 - `chapter_10_Statements/` — conditional statements and practice challenges
 - `chapter_14_Arrays/` — array examples, iteration, sorting, transformation, and reduction
 - `chapter_16_Strings/` — string method examples, search, replace, concatenation, slicing, and joining
-- `Chapter_17_Objects/` — object examples, config structures, destructuring, and reference type behavior
+- `Chapter_17_Objects/` — object examples, config structures, destructuring, and reference type behavior (includes 5th-grade examples)
 - `chapter_18_Asyc_Await/` — async/await examples and asynchronous JavaScript concepts
 - `chapter_19_Playwright_Basics/` — Playwright test examples and automation scripts
 - `chapter_20_TypeScript_Basics/` — TypeScript basics, modules, and import/export examples
