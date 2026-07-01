@@ -20,7 +20,8 @@ A beginner-friendly JavaScript learning repository organized into chapters. The 
 - Chapter 18: Async/await and asynchronous JavaScript examples
 - Chapter 19: Playwright basics and browser automation examples
 - Chapter 20: TypeScript basics, module export/import examples, and default vs named exports
- - Chapter 21: OOP concepts, classes, and class object examples
+- Chapter 21: OOP concepts, classes, and class object examples
+- Chapter 22: Callback functions explained in simple, beginner-friendly terms
 
 ## Prerequisites
 
@@ -88,7 +89,8 @@ npx playwright test tests/ttcart.spec.ts
 - `chapter_18_Asyc_Await/` — async/await examples and asynchronous JavaScript concepts
 - `chapter_19_Playwright_Basics/` — Playwright test examples and automation scripts
 - `chapter_20_TypeScript_Basics/` — TypeScript basics, modules, and import/export examples
- - `chapter_21_OOPS_Concepts/` — OOP concepts, class and object examples (Class_Objects folder)
+- `chapter_21_OOPS_Concepts/` — OOP concepts, class and object examples (Class_Objects folder)
+- `Chapter_22_CallBack/` — Callback functions explained in simple, beginner-friendly terms with real-world examples
 
 ## Notes
 
