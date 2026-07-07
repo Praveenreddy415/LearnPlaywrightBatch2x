@@ -97,3 +97,10 @@ npx playwright test tests/ttcart.spec.ts
 - This repository is intended for practice and learning.
 - File names are kept as-is to preserve chapter progression.
 - The repo currently contains JavaScript fundamentals rather than Playwright-specific test scripts.
+
+## Recent updates
+
+- Added OOP and Promise examples, reorganized chapters under `chapter_21_OOPS_Concepts`.
+- Added TypeScript notes and examples under `chapter_23_TypeScript_Basics` (JS vs TS, `void` vs `never`).
+- Added `chapter_24_Interface` with interface examples and `chapter_21_OOPS_Concepts/05_Polymorphism`.
+
