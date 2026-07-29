@@ -7,6 +7,7 @@ A beginner-friendly JavaScript learning repository organized into chapters. The 
 - Chapter 01: JavaScript basics and setup verification
 - Chapter 02: Core JavaScript concepts and notes
 - Chapter 03: Identifiers, naming conventions, comments, and VS Code productivity
+- **Chapter 03: Locators & Commands** — Playwright locators, XPath tutorials (240_Xpath.spec.ts), and comprehensive XPath cheat sheet
 - Chapter 04: Variables, scope, hoisting, and functions
 - Chapter 05: Arithmetic operators
 - Chapter 06: Literals including `null`, `undefined`, strings, and template literals
@@ -76,6 +77,7 @@ npx playwright test tests/ttcart.spec.ts
 - `chapter_01_Basics/` — introductory JavaScript examples
 - `chapter_02_javascript_concepts/` — deeper JavaScript concept notes
 - `chapter_03_identifier_literal/` — naming rules, comments, and VS Code shortcuts
+- `tests/03_Locators_Commands/` — **Playwright locator strategies and XPath tutorials** with practical examples and comprehensive cheat sheet
 - `chapter_04_Javscript_fundamentals/` — variables, functions, hoisting, and scope
 - `chapter_05_Operators/` — arithmetic operator examples
 - `chapter_06_Literal/` — literal values and string formatting
@@ -91,6 +93,32 @@ npx playwright test tests/ttcart.spec.ts
 - `chapter_20_TypeScript_Basics/` — TypeScript basics, modules, and import/export examples
 - `chapter_21_OOPS_Concepts/` — OOP concepts, class and object examples (Class_Objects folder)
 - `Chapter_22_CallBack/` — Callback functions explained in simple, beginner-friendly terms with real-world examples
+
+## XPath Tutorial & Resources
+
+This repository includes comprehensive XPath learning materials:
+
+### Files
+- **240_Xpath.spec.ts** — 20 practical Playwright test examples covering:
+  - Basic XPath syntax and tag selection
+  - Attribute-based selection
+  - Text content matching
+  - Position-based selection
+  - Parent-child relationships
+  - Complex conditions and operators
+  - Real-world form automation examples
+  - Dynamic element handling
+
+- **XPATH_CHEAT_SHEET.md** — Complete reference guide with:
+  - 15+ organized tables with XPath patterns
+  - 100+ practical examples
+  - Selection methods (tag, attribute, text)
+  - Predicates and conditions
+  - XPath functions (string, numeric, boolean)
+  - Navigation axes with examples
+  - Real-world scenarios
+  - Best practices and common mistakes
+  - Playwright integration code samples
 
 ## Notes
 
