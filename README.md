@@ -8,21 +8,27 @@ A beginner-friendly JavaScript learning repository organized into chapters. The 
 - Chapter 02: Core JavaScript concepts and notes
 - Chapter 03: Identifiers, naming conventions, comments, and VS Code productivity
 - **Chapter 03: Locators & Commands** — Playwright locators, XPath tutorials (240_Xpath.spec.ts), and comprehensive XPath cheat sheet
-- Chapter 04: Variables, scope, hoisting, and functions
-- Chapter 05: Arithmetic operators
-- Chapter 06: Literals including `null`, `undefined`, strings, and template literals
-- Chapter 07: Operator behavior, comparison, logical operators, ternary expressions, nullish coalescing, and type checks
-- Chapter 08: Interview-style operator practice problems
-- Chapter 09: Primitive and non-primitive data types
-- Chapter 10: Conditional statements and control flow
-- Chapter 14: Array methods, iteration, sorting, filtering, and reduction
-- Chapter 16: String methods, search, replace, concatenation, slicing, and joining
-- Chapter 17: Object concepts, config structures, destructuring, and reference behavior
-- Chapter 18: Async/await and asynchronous JavaScript examples
-- Chapter 19: Playwright basics and browser automation examples
-- Chapter 20: TypeScript basics, module export/import examples, and default vs named exports
-- Chapter 21: OOP concepts, classes, and class object examples
-- Chapter 22: Callback functions explained in simple, beginner-friendly terms
+- **Chapter 04: Session Storage** — Session and localStorage management in Playwright
+- **Chapter 05: Allure Reporting** — Test reporting with Allure framework
+- **Chapter 06: Multiple Elements** — Handling multiple elements and batch operations
+- **Chapter 07: Web Tables** — Web table automation with dynamic XPath and pagination
+- **Chapter 08: Web Select & Frames/Iframe** — Dropdown selection and HTML iframe handling
+- **Chapter 09: Frame & Iframe** — Advanced frame and iframe navigation
+- Chapter 10: Variables, scope, hoisting, and functions
+- Chapter 11: Arithmetic operators
+- Chapter 12: Literals including `null`, `undefined`, strings, and template literals
+- Chapter 13: Operator behavior, comparison, logical operators, ternary expressions, nullish coalescing, and type checks
+- Chapter 14: Interview-style operator practice problems
+- Chapter 15: Primitive and non-primitive data types
+- Chapter 16: Conditional statements and control flow
+- Chapter 20: Array methods, iteration, sorting, filtering, and reduction
+- Chapter 22: String methods, search, replace, concatenation, slicing, and joining
+- Chapter 23: Object concepts, config structures, destructuring, and reference behavior
+- Chapter 24: Async/await and asynchronous JavaScript examples
+- Chapter 25: Playwright basics and browser automation examples
+- Chapter 26: TypeScript basics, module export/import examples, and default vs named exports
+- Chapter 27: OOP concepts, classes, and class object examples
+- Chapter 28: Callback functions explained in simple, beginner-friendly terms
 
 ## Prerequisites
 
@@ -77,7 +83,15 @@ npx playwright test tests/ttcart.spec.ts
 - `chapter_01_Basics/` — introductory JavaScript examples
 - `chapter_02_javascript_concepts/` — deeper JavaScript concept notes
 - `chapter_03_identifier_literal/` — naming rules, comments, and VS Code shortcuts
+- `tests/01_Basics/` — Playwright basic test setup and annotations
+- `tests/02_First_tests/` — First Playwright tests with BCP (Browser, Context, Page) setup
 - `tests/03_Locators_Commands/` — **Playwright locator strategies and XPath tutorials** with practical examples and comprehensive cheat sheet
+- `tests/04_Session_Storage/` — Session and localStorage management in tests
+- `tests/05_Allure_Reporting/` — Test reporting and Allure integration examples
+- `tests/06_Multiple_Element_/` — Handling multiple elements and batch operations
+- `tests/07_WebTables/` — Web table automation with dynamic XPath and pagination
+- `tests/08_Web_Select_Frames_Iframe/` — Dropdown selection and HTML iframe handling
+- `tests/09_Frame_Iframe/` — Advanced frame and iframe navigation
 - `chapter_04_Javscript_fundamentals/` — variables, functions, hoisting, and scope
 - `chapter_05_Operators/` — arithmetic operator examples
 - `chapter_06_Literal/` — literal values and string formatting
