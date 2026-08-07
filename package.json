@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Praveenreddy415/LearnPlaywrightBatch2x#readme",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
-    "@types/node": "^26.0.0"
+    "@types/node": "^26.1.2"
   }
 }

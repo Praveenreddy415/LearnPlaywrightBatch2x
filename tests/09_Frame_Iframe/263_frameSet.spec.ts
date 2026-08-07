@@ -1,4 +1,4 @@
-import { test, expect, FrameLocator, Locator } from '@playwright/test';
+import { test, expect } from '@playwright/test';
 
 test('Basic Web Test - Verify Page Title', async ({ page }) => {
 
